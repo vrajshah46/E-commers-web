@@ -6,6 +6,8 @@ import ProductDetail from './components/ProductDetail'
 import SearchItem from './components/SearchItem'
 import Cart from './components/Cart'
 import { items } from './components/Data'
+import './App.css';
+
 
 
 const App = () => {

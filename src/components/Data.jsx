@@ -41,7 +41,7 @@ export const items =  [
       title: "Lenovo Tab P12 Pro AMOLED",
       imgSrc: 'https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg',
       amazonLink: 'https://amzn.to/3RabsdH',
-      description: 'Lenovo Tab P12 Pro AMOLED (12.6 inch (32 cm), 8 GB, 256 GB, Wi-fi Only), Storm Grey with Precision Pen 3',
+      description: 'Lenovo Tab P12 Pro AMOLED (12.6 inch , 8 GB, 256 GB, Wi-fi Only), Storm Grey',
       price: '19999',
     },
     {
@@ -68,7 +68,7 @@ export const items =  [
       title: "Samsung Galaxy Tab A8",
       imgSrc: 'https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg',
       amazonLink: 'https://amzn.to/3Pdsh4F',
-      description: 'Samsung Galaxy Tab A8 26.69cm (10.5 inch) Display, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi Tablet, Gray, (SM-X200NZAEINU)',
+      description: 'Samsung Galaxy Tab A8 26.69cm Display, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi Tablet, Gray',
       price: '49999',
     },
     {
